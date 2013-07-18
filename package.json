@@ -1,0 +1,25 @@
+{
+  "name": "wowza-control",
+  "description": "A client for Wowza Media Server HTTPProviders",
+  "version": "0.0.1",
+  "private": false,
+  "main": "wowza.js",
+  "readmeFilename": "README.md",
+  "license": "WTFPL",
+  "author": {
+    "name": "Partido Surrealista Mexicano",
+    "email": "rob@surrealista.mx",
+    "url": "http://surrealista.mx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/psm/wowza-control.git"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.6.3"
+  },
+  "dependencies": {
+    "underscore": "~1.5.0",
+    "xml2js": "~0.2.8"
+  }
+}
