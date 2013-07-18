@@ -9,7 +9,7 @@
 ```javascript
 var Wowza, client, _cfg;
 
-Wowza = require('../src/wowza');
+Wowza = require('wowza-control');
 
 _cfg = {
 	"username": 'someUser',
