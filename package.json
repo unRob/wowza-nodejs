@@ -1,9 +1,9 @@
 {
   "name": "wowza-control",
   "description": "A client for Wowza Media Server HTTPProviders",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
-  "main": "wowza.js",
+  "main": "Wowza.js",
   "readmeFilename": "README.md",
   "license": "WTFPL",
   "author": {
